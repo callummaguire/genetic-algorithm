@@ -1,0 +1,14 @@
+{
+  "name": "genetic-algorithm-master",
+  "version": "1.0.0",
+  "main": "./guessMyName.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./guessMyName.js",
+    "test": "jest .",
+    "health": "echo 'hello world'"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
